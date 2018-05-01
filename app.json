@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Python",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Groundwork",
+  "description": "Groundwork application, coded in Django, deployed on Heroku",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/aleotheoreo/heroku_django_groundwork",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
